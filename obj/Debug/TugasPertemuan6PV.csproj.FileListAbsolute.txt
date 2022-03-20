@@ -1,0 +1,7 @@
+C:\Users\User\Documents\SharpDevelop Projects\TugasPertemuan6PV\TugasPertemuan6PV\bin\Debug\TugasPertemuan6PV.exe
+C:\Users\User\Documents\SharpDevelop Projects\TugasPertemuan6PV\TugasPertemuan6PV\bin\Debug\TugasPertemuan6PV.pdb
+C:\Users\User\Documents\SharpDevelop Projects\TugasPertemuan6PV\TugasPertemuan6PV\obj\Debug\TugasPertemuan6PV.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\TugasPertemuan6PV\TugasPertemuan6PV\obj\Debug\TugasPertemuan6PV.MainForm.resources
+C:\Users\User\Documents\SharpDevelop Projects\TugasPertemuan6PV\TugasPertemuan6PV\obj\Debug\TugasPertemuan6PV.csproj.GenerateResource.Cache
+C:\Users\User\Documents\SharpDevelop Projects\TugasPertemuan6PV\TugasPertemuan6PV\obj\Debug\TugasPertemuan6PV.exe
+C:\Users\User\Documents\SharpDevelop Projects\TugasPertemuan6PV\TugasPertemuan6PV\obj\Debug\TugasPertemuan6PV.pdb
